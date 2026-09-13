@@ -1,0 +1,12 @@
+{
+  "name": "churn-and-retention",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev:backend": "uvicorn backend.app.main:app --reload --port 5050",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "test:backend": "pytest tests/backend",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
+

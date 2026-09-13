@@ -1,0 +1,10 @@
+customer_id,score_date,churn_probability,risk_band,prediction_window_days,top_driver_1,top_driver_1_weight,top_driver_2,top_driver_2_weight,top_driver_3,top_driver_3_weight,recommended_action,recommended_offer
+C1001,2026-09-01,0.22,Medium,90,Rising usage volatility,0.18,Recent rate change,0.12,Low digital engagement,0.08,Send usage insights,Green energy bundle
+C1002,2026-09-01,0.71,Critical,60,Month-to-month contract,0.31,Competitor activity,0.2,High bill variance,0.13,Call with fixed-rate offer,12 month fixed gas plan
+C1003,2026-09-01,0.16,Low,180,Long tenure,0.09,Stable payments,0.05,Green plan engagement,0.04,Maintain nurture,Renewable loyalty credit
+C1004,2026-09-01,0.29,Medium,120,Contract renewal approaching,0.17,High annual value,0.1,Service inquiry volume,0.06,Assign account manager,SMB renewal consultation
+C1005,2026-09-01,0.64,High,60,Price sensitivity,0.28,Billing issue history,0.22,Variable plan,0.13,Offer bill protection,Budget billing plan
+C1006,2026-09-01,0.41,Medium,90,Rural service friction,0.2,Limited channel engagement,0.11,Rate comparison,0.07,Proactive service check,Fixed rural gas plan
+C1007,2026-09-01,0.68,High,60,Short tenure,0.26,Month-to-month contract,0.21,Service experience,0.14,Retention outreach,First year loyalty credit
+C1008,2026-09-01,0.18,Low,180,Stable usage,0.08,Account manager engagement,0.06,Fixed contract,0.04,Maintain nurture,SMB efficiency review
+

@@ -1,0 +1,7 @@
+interaction_id,customer_id,interaction_date,channel,interaction_type,sentiment,issue_category,resolved_flag
+I9001,C1002,2026-07-12,Call,Rate question,Neutral,Pricing,true
+I9002,C1005,2026-06-03,Email,Billing complaint,Negative,Billing,true
+I9003,C1007,2026-08-17,Chat,Service concern,Negative,Service,false
+I9004,C1004,2026-08-25,Account manager,Renewal discussion,Positive,Contract,true
+I9005,C1001,2026-07-29,Email,Usage inquiry,Neutral,Usage,true
+

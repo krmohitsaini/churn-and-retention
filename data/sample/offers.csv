@@ -1,0 +1,7 @@
+offer_id,offer_name,offer_type,target_segment,eligibility_rule,expected_retention_lift,estimated_cost
+O100,12 month fixed gas plan,Contract,High Value Gas,Active gas customer on variable plan,0.08,75
+O101,Budget billing plan,Billing,Price Sensitive,Residential customer with high bill variance,0.06,40
+O102,First year loyalty credit,Credit,Price Sensitive,Tenure under 24 months and high risk,0.05,60
+O103,SMB renewal consultation,Service,SMB Core,Small business contract renewal within 180 days,0.07,120
+O104,Green energy bundle,Product,Urban Dual Fuel,Electricity or dual fuel customer,0.04,50
+

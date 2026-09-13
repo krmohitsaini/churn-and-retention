@@ -1,0 +1,12 @@
+customer_id,customer_name,province,city,customer_type,segment,product_type,plan_type,contract_status,acquisition_channel,signup_date,tenure_months,estimated_annual_value,current_status
+C1001,Avery Patel,Ontario,Toronto,Residential,Urban Dual Fuel,Electricity,Fixed,Active,Digital,2022-01-14,47,1420,Active
+C1002,Jordan Chen,Alberta,Calgary,Residential,High Value Gas,Gas,Variable,Month-to-month,Broker,2023-03-04,33,1680,Active
+C1003,Samira Khan,British Columbia,Vancouver,Residential,Green Plan,Electricity,Fixed,Active,Referral,2021-09-20,51,1325,Active
+C1004,Liam Martin,Ontario,Ottawa,Small Business,SMB Core,Dual Fuel,Fixed,Active,Direct Sales,2020-07-11,64,6200,Active
+C1005,Nora Singh,Alberta,Edmonton,Residential,Price Sensitive,Gas,Variable,Month-to-month,Digital,2024-02-18,22,980,Active
+C1006,Lucas Brown,Manitoba,Winnipeg,Residential,Rural Gas,Gas,Fixed,Active,Broker,2022-11-08,37,1120,Active
+C1007,Maya Wilson,Ontario,Hamilton,Residential,Price Sensitive,Electricity,Variable,Month-to-month,Digital,2024-08-21,16,890,Active
+C1008,Ethan Roy,Quebec,Montreal,Small Business,SMB Growth,Electricity,Fixed,Active,Direct Sales,2021-05-03,55,5400,Active
+C1009,Sofia Lee,Alberta,Red Deer,Residential,High Value Gas,Gas,Fixed,Expired,Broker,2022-06-29,42,1580,Churned
+C1010,Noah Davis,Ontario,Mississauga,Residential,Urban Dual Fuel,Dual Fuel,Fixed,Expired,Digital,2023-12-01,25,1760,Churned
+

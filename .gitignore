@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+.env
+.env.local
+*.pyc
+data/raw/synthetic_energy_customer_sites.csv
