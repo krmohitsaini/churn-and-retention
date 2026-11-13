@@ -75,3 +75,5 @@ Later, `APP_DATA_SOURCE=databricks` can be used once the Databricks repository i
 The backend caches expensive Portfolio and Churn aggregate responses using the data source version and active filters as the cache key. In CSV mode, the source version includes the raw CSV file modification time, so replacing the CSV naturally invalidates the cache after the backend restarts or sees the new timestamp.
 
 The frontend also keeps a small in-memory GET cache during the browser session so switching between pages does not refetch identical dashboard payloads.
+
+#
